@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Jhonatan Albernaz
+## Olá! Eu sou o Jhonatan Albernaz
 
 <div>
   <a href="https://github.com/JhonatanAlbernaz">
