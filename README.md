@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Jhonatan Albernaz
 
+[<img widht=100% src="https://capsule-render.ver ](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
+
 <div>
   <a href="https://github.com/JhonatanAlbernaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanAlbernaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
